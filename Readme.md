@@ -1,10 +1,8 @@
-# Challenges adventJs 
-
 <div align="center">
 <img src="./adventJS-logo.png"/>
 </div>
 
-
+# Challenges: 
 
 - [`01 - Contando ovejas para dormir`]
 - [`02 - ¡Ayuda al elfo a listar los regalos!`]
