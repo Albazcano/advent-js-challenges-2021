@@ -1,1 +1,0 @@
-# advent-js-challenge
